@@ -1,0 +1,9 @@
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\bin\Debug\netstandard2.0\Funda.Data.dll.config
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\bin\Debug\netstandard2.0\Funda.Data.deps.json
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\bin\Debug\netstandard2.0\Funda.Data.dll
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\bin\Debug\netstandard2.0\Funda.Data.pdb
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\obj\Debug\netstandard2.0\Funda.Data.AssemblyInfoInputs.cache
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\obj\Debug\netstandard2.0\Funda.Data.AssemblyInfo.cs
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\obj\Debug\netstandard2.0\Funda.Data.csproj.CoreCompileInputs.cache
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\obj\Debug\netstandard2.0\Funda.Data.dll
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Contracts\obj\Debug\netstandard2.0\Funda.Data.pdb

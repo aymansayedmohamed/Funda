@@ -1,0 +1,9 @@
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\bin\Debug\netstandard2.0\Funda.Infrastructure.Http.deps.json
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\bin\Debug\netstandard2.0\Funda.Infrastructure.Http.dll
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\bin\Debug\netstandard2.0\Funda.Infrastructure.Http.pdb
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.csprojAssemblyReference.cache
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.AssemblyInfoInputs.cache
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.AssemblyInfo.cs
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.csproj.CoreCompileInputs.cache
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.dll
+C:\Friss\Learnings\Tasks\Funda\src\Funda.Infrastructure.Http\obj\Debug\netstandard2.0\Funda.Infrastructure.Http.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSutzYe6+hSstF3/wImwz/bdLQwtp+RBFA2s5JKx4jEbKcxTdX8p4vRNW17XWulaFZTjD+eJ7uL2W42WqZgUUw==",
+  "success": true,
+  "projectFilePath": "C:\\Friss\\Learnings\\Tasks\\Funda\\src\\Funda.Infrastructure\\Funda.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
