@@ -10,6 +10,7 @@
 ## The system components
 * Azure function that should run periodically to persist Funda API data to a local database
 * .Net core API that queries the locally persisted data
+![alt text](https://github.com/aymansayedmohamed/Funda/blob/Master/System%20Design.png)
 ## Steps to run the solution
 * Clone the repository
 * Build the solution to restore the NuGet packages
