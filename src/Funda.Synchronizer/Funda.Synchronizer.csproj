@@ -31,9 +31,6 @@
     <ProjectReference Include="..\Funda.Infrastructure.Http\Funda.Infrastructure.Http.csproj">
       <Private>true</Private>
     </ProjectReference>
-    <ProjectReference Include="..\Funda.Infrastructure\Funda.Infrastructure.csproj">
-      <Private>true</Private>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">

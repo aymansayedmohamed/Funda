@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Funda.Contracts\Funda.Data.csproj" />
-    <ProjectReference Include="..\Funda.Infrastructure\Funda.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
