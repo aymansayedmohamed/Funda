@@ -14,6 +14,7 @@
 ## Steps to run the solution
 * Clone the repository
 * Build the solution to restore the NuGet packages
+* make (Funda.Synchronizer & Funda) projects as startup projects in Visual Studio
 * Run the solution from Visual Studio
 * The Synchronize azure function and the .net core API should start
 * Azure function logs should show the persisted data progress
